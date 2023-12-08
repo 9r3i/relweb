@@ -4,7 +4,9 @@ github releases blog
 
 # usage
 just put the url to see a repo releases
-```https://relweb.vercel.app/<github_user>/<github_public_repo>/```
+```
+https://relweb.vercel.app/<github_user>/<github_public_repo>/
+```
 
 
 # sample
