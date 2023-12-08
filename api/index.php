@@ -30,7 +30,7 @@ window.addEventListener('error',function(e){
   if(true){return;}//*/
   
   /* blog config host file */
-  const CONFIG_FILE="config.json";
+  const CONFIG_FILE="https://relfo.vercel.app/9r3i/plain.js/1.2.0/config.json";
   
   /**
    * prepare for registered files
